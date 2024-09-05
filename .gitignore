@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+test_output/
+.DS_Store
+~*
+*.log
+.env
+log_*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+freeze.txt
+
+research_task.egg-info/
+dist/
+local_store_1/
+build/
+notebooks_local/
+reports_data/
+notebooks/data
